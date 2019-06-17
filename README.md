@@ -8,7 +8,7 @@ Launching is for `android-studio/bin/android-studio.sh` if you don't have this f
 
 *No* root priviledges are required, you should _not_ have to use a password.
 
-## Running
+## Installing
 
 To modify the given AndroidStudio.desktop and install it in the proper location, run:
 
