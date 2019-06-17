@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Encoding=UTF-8
+Terminal=false
+Icon=/home/echo/android-studio/icon.png
+Exec=sh /home/echo/android-studio/bin/studio.sh
+Name=Android Studio
+Categories=Utility;TextEditor;Development;IDE;
+Comment=Begin developing for Android
