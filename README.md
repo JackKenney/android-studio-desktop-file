@@ -25,3 +25,7 @@ To uninstall this desktop file, simply run:
 ```
 sh uninstall.sh
 ```
+
+# Troubleshooting
+
+If something goes wrong in the installation or uninstallation, please create an issue [here](https://github.com/JackKenney/android-studio-desktop-file/issues).
